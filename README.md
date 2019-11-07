@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## MSG from Haakon
+
+After cloning the repo remember to use "npm install" for the missing files required.
+
 ## Available Scripts
 
 In the project directory, you can run:

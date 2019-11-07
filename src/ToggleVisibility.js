@@ -1,4 +1,6 @@
-class MyComponent extends React.Component {
+import React from "react";
+
+class ToggleVisibility extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -36,3 +38,5 @@ class MyComponent extends React.Component {
     }
   }
 }
+
+export default ToggleVisibility;
