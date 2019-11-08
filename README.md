@@ -1,5 +1,5 @@
-## Updates
-added a toggleVisibility onClick button and a counter with functions (increase, decrease, reset)
+## Most recent update
+added controlledForm.js and some CSS
 
 
 ## How to install
