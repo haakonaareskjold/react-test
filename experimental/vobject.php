@@ -28,7 +28,8 @@
             }
 
             // template to create person. Vars are fname, lname and age.
-            $person1 = new person ("john", "Smith", 25);
+            // These would usually derive from a database
+            $person1 = new person ("john", "Smith", 30);
             $person2 = new person ("Haakon", "Aareskjold", 25);
 
             //prints out what the hello method returns
