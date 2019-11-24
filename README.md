@@ -6,6 +6,11 @@ added controlledForm.js , very basic CSS and a video player (updated)
 
 After cloning the repo remember to use "npm install" for the missing files required.
 
+OR 
+
+testing php scripts locally with:
+php -S localhost:3000 -t public/ experimental/filename.php
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
